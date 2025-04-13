@@ -4,6 +4,10 @@ This is an experimental demo of OpenAI's new computer use agent. It enables you 
 
 This agent has been designed to work within the constraints of Google colab, yet still provide a simple UI to monitor agent actions.
 
+Access the notebook here: https://github.com/smartaces/OpenAI_Computer_Use_Agents_Google_Colab_Demo/blob/main/OpenAI_Computer_Use_Agents_Colab_Demo_Github_Shared.ipynb
+
+Or click here to go straight to the notebook in Google colab: https://colab.research.google.com/github/smartaces/OpenAI_Computer_Use_Agents_Google_Colab_Demo/blob/main/OpenAI_Computer_Use_Agents_Colab_Demo_Github_Shared.ipynb
+
 I have also included techniques to minimise agent detection, to enable reasonably robust performance.
 
 ![image](https://github.com/user-attachments/assets/3fce12a1-cca8-4aac-82bc-adc42db1982f)
